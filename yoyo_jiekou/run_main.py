@@ -1,4 +1,4 @@
-# coding=utf-8
+﻿# coding=utf-8
 import unittest
 import time
 import HTMLTestRunner
@@ -104,4 +104,6 @@ if __name__ == "__main__":
     port = readConfig.port
     receiver = readConfig.receiver
     send_mail(sender, psw, receiver, smtp_server, report_file, port)  # 4最后一步发送报告
+
+1111111111111111
 
